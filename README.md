@@ -35,9 +35,3 @@ It aims to uncover purchasing patterns, KPIs, and actionable insights that help 
 - Actionable insights for marketing and sales teams.
 - Scalable workflow combining Python, SQL, and Power BI.
 
-## 📬 Contact
-Created by **Navya Nayakuni**  
-[LinkedIn](https://www.linkedin.com/in/navya-nayakuni) 
-[GitHub](https://github.com/NavyaNayakuni) 
-Retail_Customer_Behaviour_and_shoping
-Build a Real-World Data Analyst Project for Resume with Python, SQL, and Power BI with Trends dataset This isn’t just another beginner project, it’s a complete, company-level analytics workflow exactly like what data analysts do in real organizations..
